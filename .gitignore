@@ -1,1 +1,8 @@
 /.metadata/
+
+target/
+*.class
+.idea/
+.vscode/
+.project
+.settings/
