@@ -1,7 +1,7 @@
 package com.learn.child;
 
-import com.learn.behavior.FlyWithWings;
-import com.learn.behavior.Quack;
+import com.learn.behaviors.FlyWithWings;
+import com.learn.behaviors.Quack;
 import com.learn.parent.Duck;
 
 public class MallardDuck extends Duck{

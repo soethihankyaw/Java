@@ -1,7 +1,7 @@
 package com.learn.child;
 
-import com.learn.behavior.FlyNoWay;
-import com.learn.behavior.Squeak;
+import com.learn.behaviors.FlyNoWay;
+import com.learn.behaviors.Squeak;
 import com.learn.parent.Duck;
 
 public class RubberDuck extends Duck {

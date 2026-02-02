@@ -1,6 +1,6 @@
-package com.learn.behavior;
+package com.learn.behaviors;
 
-import com.learn.behavior.interfaces.Flyable;
+import com.learn.behaviors.interfaces.Flyable;
 
 public class FlyNoWay implements Flyable{
 

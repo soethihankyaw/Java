@@ -1,6 +1,6 @@
-package com.learn.behavior;
+package com.learn.behaviors;
 
-import com.learn.behavior.interfaces.QuackAble;
+import com.learn.behaviors.interfaces.QuackAble;
 
 public class Squeak implements QuackAble{
 

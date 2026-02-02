@@ -1,4 +1,4 @@
-package com.learn.behavior.interfaces;
+package com.learn.behaviors.interfaces;
 
 public interface QuackAble {
 	

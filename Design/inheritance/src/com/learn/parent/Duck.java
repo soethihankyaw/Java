@@ -1,7 +1,7 @@
 package com.learn.parent;
 
-import com.learn.behavior.interfaces.Flyable;
-import com.learn.behavior.interfaces.QuackAble;
+import com.learn.behaviors.interfaces.Flyable;
+import com.learn.behaviors.interfaces.QuackAble;
 
 public abstract class Duck {
 	
